@@ -1,3 +1,3 @@
-for i=1:99
+for i=1:98
 println(i)
 end
