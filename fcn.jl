@@ -45,3 +45,12 @@ end
 
 # Function call
 func()
+
+# Defining a function with arguments
+function add_fn(x, y)
+    println(x+y)
+    println(x*y)
+end
+
+# Calling defined function
+add_fn(10, 8)
