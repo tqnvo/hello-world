@@ -1,3 +1,5 @@
 x = 2
 y = 3
-println(x+y)
+for i in 1:100
+    println(i*(x+y))
+end
